@@ -1,0 +1,1 @@
+Add an option to create loop videos for video conference backgrounds
